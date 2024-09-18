@@ -1,0 +1,8 @@
+.project
+*.log
+target/
+*.class
+*.classpath
+.settings/
+/examples/
+/20newsgroups4.ser.gz
